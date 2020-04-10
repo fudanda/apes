@@ -1,0 +1,21 @@
+{
+    "name": "fdd/think-helper",
+    "description": "think-helper",
+    "license": "MIT",
+    "authors": [{
+        "name": "huo san",
+        "email": "314553951@qq.com"
+    }],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "apes\\": "src/"
+        },
+        "files": [
+            "src/helper.php",
+            "src/run.php"
+        ]
+    }
+}
