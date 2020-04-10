@@ -1,6 +1,7 @@
 {
     "name": "fdd/apes",
     "description": "apes",
+    "version": "dev-master",
     "license": "MIT",
     "authors": [{
         "name": "huo san",
